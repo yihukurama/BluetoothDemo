@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Volumes/DATA01/Android/WorkSpace/Bluetooth1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon.png",
+        "source": "/Volumes/DATA01/Android/WorkSpace/Bluetooth1/app/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/Volumes/DATA01/Android/WorkSpace/Bluetooth1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/msgbox_rec.9.png",
+        "source": "/Volumes/DATA01/Android/WorkSpace/Bluetooth1/app/src/main/res/drawable-hdpi/msgbox_rec.9.png"
+    },
+    {
+        "merged": "/Volumes/DATA01/Android/WorkSpace/Bluetooth1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/msgbox_send.9.png",
+        "source": "/Volumes/DATA01/Android/WorkSpace/Bluetooth1/app/src/main/res/drawable-hdpi/msgbox_send.9.png"
+    }
+]
